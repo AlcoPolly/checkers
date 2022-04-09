@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "checkers", "checkers\checkers.vcxproj", "{F65B0EDF-8D58-4736-A1E7-B750441D77E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F65B0EDF-8D58-4736-A1E7-B750441D77E5}.Debug|x64.ActiveCfg = Debug|x64
+		{F65B0EDF-8D58-4736-A1E7-B750441D77E5}.Debug|x64.Build.0 = Debug|x64
+		{F65B0EDF-8D58-4736-A1E7-B750441D77E5}.Debug|x86.ActiveCfg = Debug|Win32
+		{F65B0EDF-8D58-4736-A1E7-B750441D77E5}.Debug|x86.Build.0 = Debug|Win32
+		{F65B0EDF-8D58-4736-A1E7-B750441D77E5}.Release|x64.ActiveCfg = Release|x64
+		{F65B0EDF-8D58-4736-A1E7-B750441D77E5}.Release|x64.Build.0 = Release|x64
+		{F65B0EDF-8D58-4736-A1E7-B750441D77E5}.Release|x86.ActiveCfg = Release|Win32
+		{F65B0EDF-8D58-4736-A1E7-B750441D77E5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F4CA6E4-41B0-4603-B604-BEE2167E3142}
+	EndGlobalSection
+EndGlobal
